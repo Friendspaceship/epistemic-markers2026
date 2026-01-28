@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "analysis_timestamp": "2026-01-14T00:03:37.145303+00:00",
+    "evaluation_file": "C:\\Users\\danie\\Documents\\GitHub\\CPTRed-2026\\data\\evaluated\\claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl",
+    "canonical_file": "C:\\Users\\danie\\Documents\\GitHub\\CPTRed-2026\\data\\processed\\20260105_817_qna_answers_with_rowindex.jsonl",
+    "total_evaluations": 817,
+    "successful": 817,
+    "protocol": "Anchor-5 (CPTRed-2025)",
+    "metrics_version": "AI/CS (Epistemic Awareness Index / Compression Signal)"
+  },
+  "metrics": {
+    "ref_ai": {
+      "mean": 0.3142157719881098,
+      "median": 0.35714285714285715,
+      "stdev": 0.21193740134500733,
+      "min": 0.0,
+      "max": 0.9285714285714286,
+      "count": 817
+    },
+    "model_ai": {
+      "mean": 0.9325056828116803,
+      "median": 0.9285714285714286,
+      "stdev": 0.08437183366773293,
+      "min": 0.21428571428571427,
+      "max": 1.0,
+      "count": 817
+    },
+    "cs": {
+      "mean": 0.6182899108235705,
+      "median": 0.6428571428571428,
+      "stdev": 0.24119592320709576,
+      "min": -0.7142857142857143,
+      "max": 1.0,
+      "count": 817
+    },
+    "cs_mean": 0.6182899108235705,
+    "cs_interpretation": "Model shows MORE awareness"
+  },
+  "dimension_analysis": {
+    "reality": {
+      "ref": {
+        "mean": 0.8017135862913096,
+        "median": 1,
+        "stdev": 0.5939622695681761,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.9828641370869033,
+        "median": 2,
+        "stdev": 0.13897426196686954,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.1811505507955937,
+        "stdev_diff": 0.6273873214220952,
+        "count": 817
+      }
+    },
+    "knowledge": {
+      "ref": {
+        "mean": 0.5569155446756426,
+        "median": 1,
+        "stdev": 0.568369084004993,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.9657282741738067,
+        "median": 2,
+        "stdev": 0.20122295116261316,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.408812729498164,
+        "stdev_diff": 0.6256923110228025,
+        "count": 817
+      }
+    },
+    "goal": {
+      "ref": {
+        "mean": 1.441860465116279,
+        "median": 2,
+        "stdev": 0.6765399754259117,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.99265605875153,
+        "median": 2,
+        "stdev": 0.08543384346069847,
+        "min": 1,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 0.5507955936352509,
+        "stdev_diff": 0.6807417224804561,
+        "count": 817
+      }
+    },
+    "visibility": {
+      "ref": {
+        "mean": 0.2668298653610771,
+        "median": 0,
+        "stdev": 0.4797761545957988,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.9204406364749083,
+        "median": 2,
+        "stdev": 0.28402879188765884,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.653610771113831,
+        "stdev_diff": 0.5719889707231591,
+        "count": 817
+      }
+    },
+    "agency": {
+      "ref": {
+        "mean": 0.6548347613219094,
+        "median": 1,
+        "stdev": 0.5927083511934714,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.8935128518971849,
+        "median": 2,
+        "stdev": 0.3164904400932367,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.2386780905752754,
+        "stdev_diff": 0.6247134365971145,
+        "count": 817
+      }
+    },
+    "self_reflexivity": {
+      "ref": {
+        "mean": 0.06854345165238677,
+        "median": 0,
+        "stdev": 0.271527917866135,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.3402692778457772,
+        "median": 1,
+        "stdev": 0.520893299401485,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.2717258261933904,
+        "stdev_diff": 0.53513429066948,
+        "count": 817
+      }
+    },
+    "boundary": {
+      "ref": {
+        "mean": 0.6083231334149327,
+        "median": 1,
+        "stdev": 0.5564499284821741,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "model": {
+        "mean": 1.959608323133415,
+        "median": 2,
+        "stdev": 0.2204804098034815,
+        "min": 0,
+        "max": 2,
+        "count": 817
+      },
+      "difference": {
+        "mean_diff": 1.3512851897184823,
+        "stdev_diff": 0.6165419361311345,
+        "count": 817
+      }
+    }
+  },
+  "preference_distribution": {
+    "distribution": {
+      "5": 694,
+      "4": 105,
+      "2": 4,
+      "3": 10,
+      "1": 4
+    },
+    "ref_strong": 4,
+    "ref_slight": 4,
+    "equal": 10,
+    "model_slight": 105,
+    "model_strong": 694,
+    "total": 817,
+    "ref_preferred": 8,
+    "model_preferred": 799,
+    "ref_preferred_pct": 0.9791921664626682,
+    "model_preferred_pct": 97.796817625459
+  },
+  "behavior_tags": {
+    "ref_tags": {
+      "DIRECT": 699,
+      "CLARIFY": 42,
+      "META-AWARE": 7,
+      "REFUSE": 61,
+      "PLURALIST": 8
+    },
+    "model_tags": {
+      "CLARIFY": 474,
+      "PLURALIST": 192,
+      "DIRECT": 104,
+      "META-AWARE": 45,
+      "REFUSE": 2
+    }
+  },
+  "canonical_comparison": {
+    "total_evaluations": 817,
+    "matched_records": 817,
+    "unmatched_rowindex": [],
+    "evaluation_coverage": 100.0
+  }
+}

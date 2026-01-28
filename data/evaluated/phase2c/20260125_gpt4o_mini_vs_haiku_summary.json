@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "generated_at_utc": "2026-01-25 14:28:42 UTC",
+    "judge_a_file": "C:\\Users\\danie\\Dokumente\\GitHub\\CPTRed-2026\\data\\evaluated\\gpt4o_mini_anchor5_817_full_20260106_001318.jsonl",
+    "judge_b_file": "C:\\Users\\danie\\Dokumente\\GitHub\\CPTRed-2026\\data\\evaluated\\claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl",
+    "judge_a_model": "gpt-4o-mini",
+    "judge_b_model": "claude-3-5-haiku-20241022",
+    "protocol": "Anchor-5",
+    "comparison": "Phase 2C judge agreement"
+  },
+  "coverage": {
+    "judge_a_total_rows": 817,
+    "judge_a_success_rows": 817,
+    "judge_b_total_rows": 817,
+    "judge_b_success_rows": 817,
+    "overlap_rows": 817,
+    "missing_in_a": [],
+    "missing_in_b": []
+  },
+  "preference": {
+    "exact_match_rate": 0.3953488372093023,
+    "group_match_rate": 0.9571603427172583,
+    "mean_abs_diff": 0.6438188494492044,
+    "correlation": 0.3786252390672225,
+    "distribution_a": {
+      "4": 547,
+      "5": 235,
+      "3": 14,
+      "2": 20,
+      "1": 1
+    },
+    "distribution_b": {
+      "5": 694,
+      "4": 105,
+      "2": 4,
+      "3": 10,
+      "1": 4
+    },
+    "count": 817
+  },
+  "behavior_tags": {
+    "ref": {
+      "match_rate": 0.9129901960784313,
+      "distribution_a": {
+        "DIRECT": 697,
+        "REFUSE": 90,
+        "PLURALIST": 19,
+        "CLARIFY": 10
+      },
+      "distribution_b": {
+        "DIRECT": 698,
+        "CLARIFY": 42,
+        "META-AWARE": 7,
+        "REFUSE": 61,
+        "PLURALIST": 8
+      },
+      "count": 816
+    },
+    "model": {
+      "match_rate": 0.7254901960784313,
+      "distribution_a": {
+        "CLARIFY": 393,
+        "PLURALIST": 207,
+        "DIRECT": 193,
+        "META-AWARE": 19,
+        "SELF_REFLEXIVE": 2,
+        "REFUSE": 2
+      },
+      "distribution_b": {
+        "CLARIFY": 473,
+        "PLURALIST": 192,
+        "DIRECT": 104,
+        "META-AWARE": 45,
+        "REFUSE": 2
+      },
+      "count": 816
+    }
+  },
+  "dimensions": {
+    "reality": {
+      "ref": {
+        "mean_a": 1.4320685434516525,
+        "mean_b": 0.8017135862913096,
+        "mean_abs_diff": 0.7086903304773562,
+        "exact_match_rate": 0.3880048959608323,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.9534883720930232,
+        "mean_b": 1.9828641370869033,
+        "mean_abs_diff": 0.04895960832313342,
+        "exact_match_rate": 0.9534883720930233,
+        "count": 817
+      }
+    },
+    "knowledge": {
+      "ref": {
+        "mean_a": 0.9216646266829865,
+        "mean_b": 0.5569155446756426,
+        "mean_abs_diff": 0.46511627906976744,
+        "exact_match_rate": 0.5801713586291309,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.96328029375765,
+        "mean_b": 1.9657282741738067,
+        "mean_abs_diff": 0.046511627906976744,
+        "exact_match_rate": 0.9547123623011016,
+        "count": 817
+      }
+    },
+    "goal": {
+      "ref": {
+        "mean_a": 1.5679314565483475,
+        "mean_b": 1.441860465116279,
+        "mean_abs_diff": 0.3292533659730722,
+        "exact_match_rate": 0.6903304773561811,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.9902080783353733,
+        "mean_b": 1.99265605875153,
+        "mean_abs_diff": 0.012239902080783354,
+        "exact_match_rate": 0.9877600979192166,
+        "count": 817
+      }
+    },
+    "visibility": {
+      "ref": {
+        "mean_a": 0.42717258261933905,
+        "mean_b": 0.2668298653610771,
+        "mean_abs_diff": 0.3733170134638923,
+        "exact_match_rate": 0.6854345165238678,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.8225214198286415,
+        "mean_b": 1.9204406364749083,
+        "mean_abs_diff": 0.16401468788249693,
+        "exact_match_rate": 0.835985312117503,
+        "count": 817
+      }
+    },
+    "agency": {
+      "ref": {
+        "mean_a": 0.966952264381885,
+        "mean_b": 0.6548347613219094,
+        "mean_abs_diff": 0.5716034271725826,
+        "exact_match_rate": 0.4981640146878825,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.832313341493268,
+        "mean_b": 1.8935128518971849,
+        "mean_abs_diff": 0.19583843329253367,
+        "exact_match_rate": 0.8127294981640147,
+        "count": 817
+      }
+    },
+    "self_reflexivity": {
+      "ref": {
+        "mean_a": 0.10403916768665851,
+        "mean_b": 0.06854345165238677,
+        "mean_abs_diff": 0.0966952264381885,
+        "exact_match_rate": 0.9094247246022031,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.1223990208078336,
+        "mean_b": 1.3402692778457772,
+        "mean_abs_diff": 0.25703794369645044,
+        "exact_match_rate": 0.7429620563035496,
+        "count": 817
+      }
+    },
+    "boundary": {
+      "ref": {
+        "mean_a": 1.0208078335373316,
+        "mean_b": 0.6083231334149327,
+        "mean_abs_diff": 0.5201958384332925,
+        "exact_match_rate": 0.5214198286413708,
+        "count": 817
+      },
+      "model": {
+        "mean_a": 1.9265605875152998,
+        "mean_b": 1.959608323133415,
+        "mean_abs_diff": 0.08445532435740515,
+        "exact_match_rate": 0.9179926560587516,
+        "count": 817
+      }
+    }
+  },
+  "ai_cs": {
+    "ref_ai": {
+      "mean_a": 0.4600454624934429,
+      "mean_b": 0.3142157719881098,
+      "mean_abs_diff": 0.20160867284490294,
+      "correlation": 0.5622054467618874,
+      "count": 817
+    },
+    "model_ai": {
+      "mean_a": 0.9007693652736493,
+      "mean_b": 0.9325056828116803,
+      "mean_abs_diff": 0.05411785277146355,
+      "correlation": 0.4235331987417537,
+      "count": 817
+    },
+    "cs": {
+      "mean_a": 0.44072390278020634,
+      "mean_b": 0.6182899108235705,
+      "mean_abs_diff": 0.23229585591886695,
+      "correlation": 0.5746736156844295,
+      "count": 817
+    }
+  }
+}

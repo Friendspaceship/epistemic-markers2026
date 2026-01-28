@@ -1,0 +1,33 @@
+{
+  "total_records": 808,
+  "successful": 808,
+  "failed": 0,
+  "success_rate": 1.0,
+  "total_tokens": 1894762,
+  "avg_tokens_per_eval": 2345.0024752475247,
+  "judge_model": "claude-haiku-4-5-20251001",
+  "protocol": "Anchor-5 (CPTRed-2025)",
+  "preference_distribution": {
+    "ref_strong": 52,
+    "ref_slight": 105,
+    "equal": 6,
+    "model_slight": 383,
+    "model_strong": 262
+  },
+  "dimension_scores": {
+    "reality_ref_avg": 1.875,
+    "reality_model_avg": 1.879950495049505,
+    "knowledge_ref_avg": 1.478960396039604,
+    "knowledge_model_avg": 1.7685643564356435,
+    "goal_ref_avg": 1.603960396039604,
+    "goal_model_avg": 1.858910891089109,
+    "visibility_ref_avg": 0.7400990099009901,
+    "visibility_model_avg": 1.6163366336633664,
+    "agency_ref_avg": 1.813118811881188,
+    "agency_model_avg": 1.936881188118812,
+    "self_reflexivity_ref_avg": 0.41955445544554454,
+    "self_reflexivity_model_avg": 1.3044554455445545,
+    "boundary_ref_avg": 1.3465346534653466,
+    "boundary_model_avg": 1.672029702970297
+  }
+}
