@@ -2,9 +2,9 @@
 
 This folder is a **staged, reproducible-light** paper bundle derived from the main CPTRed-2026 repository.
 
-## What’s Included
+## What's Included
 - Manuscript: `manuscript/20260128 Measuring Textual Markers of Epistemic Stance v4.md`
-- Aggregate tables/reports sufficient to verify the paper’s reported summary statistics (AI/CS, preference agreement, run-to-run comparisons)
+- Aggregate tables/reports sufficient to verify the paper's reported summary statistics (AI/CS, preference agreement, run-to-run comparisons)
 - Minimal analysis scripts used to produce/compare the included aggregates
 - Replication guide (procedural documentation)
 
@@ -25,23 +25,15 @@ This bundle **intentionally omits** large per-item JSONL outputs and the raw Tru
 - Anchor-5 aggregate analysis (historical): `scripts/archive/20260106_analyze_anchor5.py`
 
 ## Replication Notes
-See `20260106_REPLICATION_GUIDELINES.md` for the full end-to-end procedure and parameter lock details.
+See `REPLICATION_GUIDELINES.md` for the full end-to-end procedure and parameter lock details.
 
-## Staging Instructions (for the “paper-repo” mover)
+## Repository Status
 
-This section is the **basis** another LLM/agent should follow when updating `paper-repo/` from the full project repo.
+✅ **Reproducible-light bundle migration complete** as of January 28, 2026.
 
-### What this repo is
-- A **reproducible-light** bundle: it should contain the manuscript + small aggregates/tables that support the paper’s reported numbers.
-- **Target repository (Phase 5)**: copy this bundle into `Friendspaceship/epistemic-markers2026` (the destination repo should contain these files).
+This repository has been successfully established as the **reproducible-light** paper bundle for **Friendspaceship/epistemic-markers2026**, containing:
+- Manuscript and essential aggregates/tables supporting the paper's reported numbers
+- Minimal analysis scripts for verification and comparison
+- Replication documentation
 
-### What must NOT be added (unless explicitly approved)
-- Raw TruthfulQA CSV
-- Model-answer JSONLs
-- Per-item judge evaluation JSONLs
-
-### What the mover must do (minimal)
-1. **Copy (don’t move)** the approved files from the full project repo into `paper-repo/`, preserving their relative paths.
-2. Ensure `paper-repo/manuscript/...` is the current manuscript version.
-3. Ensure the manuscript’s `## Supplementary Materials` lists **only files that exist inside `paper-repo/`** (and labels omitted large artifacts as “available on request / full repo”).
-4. Run `python scripts/verify_light_bundle.py` from inside `paper-repo/` and confirm it succeeds.
+All large artifacts (raw TruthfulQA CSV, model-answer JSONLs, per-item judge evaluations) have been intentionally omitted and are available in the full project repository upon request.

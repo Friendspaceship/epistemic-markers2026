@@ -284,8 +284,6 @@ Moreover I would like to thank Kunal Singh and Michael Umeokoli for support in t
 
 ## Supplementary Materials
 
-All materials are available at: https://github.com/Friendspaceship/epistemic-markers2026
-
 This repository is a reproducible-light bundle. It intentionally omits large per-item JSONL outputs and the raw TruthfulQA dataset; the included files are sufficient to verify all reported summary statistics and tables.
 
 ### Included (Reproducible-Light)
@@ -308,7 +306,7 @@ This repository is a reproducible-light bundle. It intentionally omits large per
 - `scripts/archive/20260106_analyze_anchor5.py`
 
 **Reproduction guide**
-- `20260106_REPLICATION_GUIDELINES.md`
+- `REPLICATION_GUIDELINES.md`
 
 ### Omitted (Available in Full Project Repo / On Request)
 - Raw TruthfulQA dataset (CSV)
