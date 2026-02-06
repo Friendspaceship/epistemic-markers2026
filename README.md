@@ -3,7 +3,8 @@
 This folder is a **staged, reproducible-light** paper bundle derived from the main CPTRed-2026 repository.
 
 ## What's Included
-- Manuscript: `manuscript/20260128 Measuring Textual Markers of Epistemic Stance v4.md`
+- Manuscript: `manuscript/20260206 Mapping Epistemic Markers in TruthfulQA's Best Answers An Exploratory Study of the CPT Anchor-5 Protocol v13.md`
+- Figures: `manuscript/fig1_awareness_index.png` through `manuscript/fig5_dimension_correlation.png`
 - Aggregate tables/reports sufficient to verify the paper's reported summary statistics (AI/CS, preference agreement, run-to-run comparisons)
 - Minimal analysis scripts used to produce/compare the included aggregates
 - Replication guide (procedural documentation)
