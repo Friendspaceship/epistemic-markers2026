@@ -110,7 +110,7 @@ The directional pattern—contemporary model outputs exhibiting substantially mo
 
 **Visual comparison of Awareness Index scores:**
 
-![Figure 1. Awareness Index: Reference vs Model Answers](figures/fig1_awareness_index.png)
+[Figure 1: Awareness Index — see figures/fig1_awareness_index.png]
 
 The consistent and large gaps, particularly in Visibility and Self-Reflexivity, are consistent with a form of epistemic compression in the reference answers — i.e., a systematic reduction of explicit frame-marking, uncertainty qualification, and boundary acknowledgment compared to contemporary model outputs.
 
@@ -129,7 +129,7 @@ Preference rating distributions across runs:
 
 **Preference distribution visualization:**
 
-![Figure 2. Preference Distribution Across Runs](figures/fig2_preference_distribution.png)
+[Figure 2: Preference Distribution — see figures/fig2_preference_distribution.png]
 
 *Note: Haiku 4.5 shows substantially more reference-preferred judgments (19.4% vs <3%), consistent with its elevated reference AI scores.*
 
@@ -148,7 +148,7 @@ Largest gaps remain in the same dimensions under both primary judges (Runs 1–2
 
 **Dimension gap heatmap across all four runs (Model AI − Reference AI):**
 
-![Figure 3. Dimension Gap Heatmap](figures/fig3_dimension_gap_heatmap.png)
+[Figure 3: Dimension Gap Heatmap — see figures/fig3_dimension_gap_heatmap.png]
 
 *Note: Largest gaps cluster in Visibility, Self-Reflexivity, Knowledge, and Boundary—dimensions most sensitive to explicit epistemic markers. Haiku 4.5 shows uniformly smaller gaps, consistent with its elevated reference AI scores.*
 
@@ -158,7 +158,7 @@ Behavioral tag distributions show the same qualitative shift under both primary 
 
 **Behavioral tag distributions (GPT-4o-mini and Claude Haiku 3.5 judges):**
 
-![Figure 4. Behavioral Tag Distribution: Reference vs Model](figures/fig4_behavioral_tags.png)
+[Figure 4: Behavioral Tag Distribution — see figures/fig4_behavioral_tags.png]
 
 Raw tag counts (as recorded in analysis JSON):
 
@@ -317,7 +317,7 @@ Across runs, the strongest and most consistent inter-correlations cluster among 
 
 **Dimension inter-correlation matrix (mean |r| across 8 matrices):**
 
-![Figure 5. Dimension Inter-Correlation](figures/fig5_dimension_correlation.png)
+[Figure 5: Dimension Inter-Correlation — see figures/fig5_dimension_correlation.png]
 
 *Note: Knowledge–Boundary shows highest overlap (mean |r|≈0.79). Self-Reflexivity is most independent, with weak correlations to most other dimensions.*
 
@@ -325,7 +325,19 @@ Interpreting these correlations conservatively, the results indicate that severa
 
 ## 5. Conclusion
 
-This exploratory study indicates that a straightforward textual-marker approach can map consistent differences in epistemic markers between conventional benchmark references and contemporary LLM outputs, in a high-contrast benchmark setting. The consistency of the directional pattern across two judge families—together with near-identical Haiku 3.5 replication aggregates and the contrasting Haiku 4.5 sensitivity run—strengthens confidence in the feasibility of the measurement approach while underscoring judge-version sensitivity. As a beginner researcher, the author welcomes feedback and collaboration to refine and extend this work.
+>Truth is the death of intention.
+>— Walter Benjamin (2019), *The Origin of the German Drama*
+
+This exploratory study offers three main observations, interpreted through the view that systemic qualities in complex socio-technical systems — including epistemic presentation in model outputs and benchmark references — are observer-interpreted constructs that become visible through patterns of observable textual behavior, rather than as directly measurable internal properties (Mavaddat, 2025).
+First, a lightweight, dimension-based protocol can support systematic and replicable comparisons of surface-level epistemic markers. Applied to all 817 TruthfulQA items, the Anchor-5 rubric yielded a robust directional pattern across two judge families (GPT-4o-mini and Claude 3.5 Haiku): contemporary model outputs consistently manifested more explicit markers of framing, qualification, boundary-setting, and reflexivity (mean Compression Signal +0.44 and +0.62, respectively). The largest gaps clustered in Visibility, Self-Reflexivity, Knowledge, and Boundary. Near-identical aggregates in a replication run indicate basic stability under fixed interpretive conditions.
+
+Second, this pattern is compatible with epistemic compression in the TruthfulQA reference answers — a relative reduction of explicit frame-marking, uncertainty acknowledgment, and boundary work compared to current outputs. A plausible reading is that this reflects benchmark design priorities (brief, corrective answers) rather than inherent epistemic deficit. The observation therefore motivates treating benchmark "best answers" as instantiations of a particular epistemic style shaped by specific evaluation norms (Fenge 2025b), rather than as neutral ground-truth texts.
+
+Third, judge-model version sensitivity — especially the asymmetric increase in reference-answer scores between Claude 3.5 Haiku and Claude Haiku 4.5 — suggests that sparse, low-marker texts are more sensitive to shifts in judge priors than marker-rich texts. This underscores that epistemic-marker scoring is itself interpretive: the same textual behavior can manifest different perceived 'systemic qualities' under different observer conditions.
+
+Several limitations qualify these observations. The analysis is confined to a single benchmark with a stylistically compressed reference format; it relies on LLM judges from two providers with broadly similar alignment paradigms; and it cannot fully disentangle marker frequency from response length or other surface confounds. Construct validity, human–LLM alignment of interpretations, and generalizability remain open. Future work could strengthen paradigmatic awareness by incorporating more diverse interpretive lenses—including hermeneutic and interpretive methods (e.g., human close readings), multi-judge panels, or the full CPT Claim–Evidence Matrix—tools designed to surface what evaluation paradigms render visible, treat as signal, or exclude from view. Controlled variation of observer conditions would further clarify the interpretive dependencies documented here; without ever escaping the paradigmatic loop of course.
+
+Overall, the study demonstrates the feasibility of systematic epistemic-marker comparison and provides an initial mapping of observable patterns. Whether these surface divergences track deeper paradigmatic differences in evaluation or primarily reflect shifts in instruction-tuning conventions remains a question for further investigation. The author welcomes critical feedback and collaboration.
 
 ## Acknowledgments
 
@@ -334,6 +346,7 @@ Moreover I would like to thank Kunal Singh and Michael Umeokoli for support in t
 
 ## References
 
+- Benjamin, Walter. (2019). The Origin of the German Drama. Cambridge: Harvard University Press.
 - Burden, John; Tešić, Marko; Pacchiardi, Lorenzo; Hernández-Orallo, José. (2025). Paradigms of AI evaluation: Mapping goals, methodologies, and culture. arXiv:2502.15620.
 - Carroll, Lewis. (1865). Alice's Adventures in Wonderland. London: Macmillan.
 - Eriksson, Maria; Purificato, Erasmo; Noroozian, Arman; Vinagre, Joao; Chaslot, Guillaume; Gomez, Emilia; Fernandez-Llorca, David. (2025). Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation. arXiv:2502.06559.
