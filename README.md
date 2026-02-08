@@ -27,11 +27,11 @@ This is a **method-calibrating, exploratory study** testing feasibility, not a c
 ## What's Included
 - Manuscript: `manuscript/20260208 Judge-Mediated Mapping of Epistemic Structures in TruthfulQA An Exploratory Study with the CPT Anchor-5 Protocol v15.md`
 - Figures:
-  - `manuscript/fig1_awareness_index.png` (Awareness Index: Reference vs Model Answers)
-  - `manuscript/fig2_preference_distribution.png` (Preference Distribution Across Runs)
-  - `manuscript/fig3_dimension_gap_heatmap.png` (Dimension Gap Heatmap)
-  - `manuscript/fig4_behavioral_tags.png` (Behavioral Tag Distribution)
-  - `manuscript/fig5_dimension_correlation.png` (Dimension Inter-Correlation Matrix)
+  - `figures/fig1_awareness_index.png` (Awareness Index: Reference vs Model Answers)
+  - `figures/fig2_preference_distribution.png` (Preference Distribution Across Runs)
+  - `figures/fig3_dimension_gap_heatmap.png` (Dimension Gap Heatmap)
+  - `figures/fig4_behavioral_tags.png` (Behavioral Tag Distribution)
+  - `figures/fig5_dimension_correlation.png` (Dimension Inter-Correlation Matrix)
 - Aggregate tables/reports sufficient to verify the paper's reported summary statistics (AI/CS, preference agreement, run-to-run comparisons)
 - Minimal analysis scripts used to produce/compare the included aggregates
 - Replication guide (procedural documentation)
@@ -43,8 +43,8 @@ This bundle **intentionally omits** large per-item JSONL outputs and the raw Tru
 - Primary judge comparisons (GPT-4o-mini vs Claude Haiku 3.5): `data/evaluated/phase2c/20260125_gpt4o_mini_vs_haiku_report.md` and `data/evaluated/phase2c/20260125_gpt4o_mini_vs_haiku_summary.json`
 - Four-run overview table: `data/evaluated/phase2c/20260125_all_4_runs_table_overview.md`
 - GPT-4o-mini run aggregate metrics: `additional/20260106_anchor5_analysis_results.json`
-- Preference rating summary (all four runs): `additional/20260129_anchor5_preference_summary.md`
-- Preliminary dimension correlation summary: `additional/20260129_dimension_correlation_summary.md` (note: underlying JSON/CSV matrices and the generating script are not included in this reproducible-light bundle)
+- Preference rating summary (all four runs): `20260129_dimension_analysis/20260129_anchor5_preference_summary.md`
+- Preliminary dimension correlation summary: `20260129_dimension_analysis/20260129_dimension_correlation_summary.md` (note: underlying JSON/CSV matrices and the generating script are not included in this reproducible-light bundle)
 - Claude Haiku 3.5 run aggregate metrics: `data/evaluated/20260114_anchor5_analysis_results.json` and summary `data/evaluated/20260114_anchor5_analysis_summary.md`
 - Haiku 3.5 replication comparison: `data/evaluated/20260119_haiku_replication_run/20260120_anchor5_analysis_comparison_report.md`
 - Haiku 3.5 replication metrics: `data/evaluated/20260119_haiku_replication_run/20260119_anchor5_analysis_results.json` and summary `data/evaluated/20260119_haiku_replication_run/20260119_anchor5_analysis_summary.md`
@@ -55,7 +55,7 @@ This bundle **intentionally omits** large per-item JSONL outputs and the raw Tru
 - Anchor-5 aggregate analysis (historical): `scripts/archive/20260106_analyze_anchor5.py`
 
 ## Replication Notes
-See `REPLICATION_GUIDELINES.md` for the full end-to-end procedure and parameter lock details.
+See `20260106_REPLICATION_GUIDELINES.md` for the full end-to-end procedure and parameter lock details.
 
 ## Repository Status
 

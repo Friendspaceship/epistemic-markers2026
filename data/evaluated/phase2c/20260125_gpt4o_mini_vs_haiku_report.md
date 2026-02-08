@@ -45,5 +45,5 @@ Judge B: claude-3-5-haiku-20241022
 | boundary | 1.0208078335373316 | 0.6083231334149327 | 0.5201958384332925 | 52.1% | 1.9265605875152998 | 1.959608323133415 | 0.08445532435740515 | 91.8% |
 
 ## Inputs
-- Judge A file: C:\Users\danie\Dokumente\GitHub\CPTRed-2026\data\evaluated\gpt4o_mini_anchor5_817_full_20260106_001318.jsonl
-- Judge B file: C:\Users\danie\Dokumente\GitHub\CPTRed-2026\data\evaluated\claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl
+- Judge A file: <local-project-root>/CPTRed-2026/data/evaluated/gpt4o_mini_anchor5_817_full_20260106_001318.jsonl
+- Judge B file: <local-project-root>/CPTRed-2026/data/evaluated/claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl

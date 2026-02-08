@@ -54,8 +54,8 @@
 # Anchor-5 Analysis Summary (Haiku)
 
 ## Inputs
-- Evaluation file: `C:\Users\danie\Documents\GitHub\CPTRed-2026\data\evaluated\claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl`
-- Canonical file: `C:\Users\danie\Documents\GitHub\CPTRed-2026\data\processed\20260105_817_qna_answers_with_rowindex.jsonl`
+- Evaluation file: `<local-project-root>/CPTRed-2026/data/evaluated/claude_haiku_anchor5_817_canonical_working_fixed20260114.jsonl`
+- Canonical file: `<local-project-root>/CPTRed-2026/data/processed/20260105_817_qna_answers_with_rowindex.jsonl`
 - Analysis timestamp (UTC): `2026-01-14T00:03:37.145303+00:00`
 
 ## Coverage

@@ -1,0 +1,32 @@
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.secret
+credentials.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs/outputs
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Outgoing (files staged for removal from public repo)
+_outgoing/
