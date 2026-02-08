@@ -35,6 +35,7 @@ This is a **method-calibrating, exploratory study** testing feasibility, not a c
 - Aggregate tables/reports sufficient to verify the paper's reported summary statistics (AI/CS, preference agreement, run-to-run comparisons)
 - Minimal analysis scripts used to produce/compare the included aggregates
 - Replication guide (procedural documentation)
+- Minimum context package: `additional/20260208_light_repo_minimum_context_package.md` (provenance, prompts, settings, dataset scope, and figure/table mappings)
 
 ## Intentional Omissions
 This bundle **intentionally omits** large per-item JSONL outputs and the raw TruthfulQA dataset to keep the repository lightweight and avoid redistribution/size issues. The full project repository contains the complete artifacts.

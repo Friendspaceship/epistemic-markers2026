@@ -8,6 +8,7 @@ This repository is a **reproducible-light** bundle for verifying the paper’s r
 - The manuscript.
 - Aggregate summary JSON/Markdown reports that contain the numbers reported in the paper (AI/CS means, preference distributions, judge agreement, run comparisons).
 - A small verification script that checks file presence and prints the key metrics from the included summaries.
+- Provenance documentation (`additional/20260208_light_repo_minimum_context_package.md`) containing verbatim prompt templates used for judge runs, LLM settings, dataset scope, and figure/table mappings.
 
 ### Intentionally Omitted
 - Raw TruthfulQA dataset CSV.
@@ -19,6 +20,7 @@ If you want to reproduce the *full pipeline* end-to-end (including generating an
 ## Folder Overview
 
 - Manuscript: `manuscript/20260128 Measuring Textual Markers of Epistemic Stance v4.md`
+- Provenance & settings documentation: `additional/20260208_light_repo_minimum_context_package.md`
 - Core aggregates:
   - GPT-4o-mini run metrics: `additional/20260106_anchor5_analysis_results.json`
   - Claude Haiku 3.5 run metrics: `data/evaluated/20260114_anchor5_analysis_results.json`
