@@ -4,7 +4,7 @@ This folder is a **staged, reproducible-light** paper bundle derived from the ma
 
 ## About This Study
 
-This repository contains an **exploratory study** investigating whether systematic differences in **epistemic structures**—the ways answers make framing, limits, uncertainty, and inference visibility explicit (or leave them implicit)—can be detected and compared at the surface-text level using a **judge-mediated method**.
+This repository contains an **exploratory study** investigating whether systematic differences in **epistemic structures**—the ways answers make framing, limits, uncertainty, and inference visibility explicit (or leave them implicit)—can be detected and compared at the surface-text level using a **judge-mediated method**. Title of the paper:  "Judge-Mediated Mapping of Epistemic Structures in TruthfulQA: An Exploratory Study with the CPT Anchor-5 Protocol", Author: Daniel Fenge
 
 **Core Approach:**
 LLM judges apply a seven-dimension rubric (the **CPT Anchor-5 protocol**) to score epistemic markers in text, producing **observer-conditioned assessments** rather than objective measurements. Results reflect text × judge interactions and are sensitive to judge-model versions—this interpretive dependency is a feature of the method, not merely a limitation.
