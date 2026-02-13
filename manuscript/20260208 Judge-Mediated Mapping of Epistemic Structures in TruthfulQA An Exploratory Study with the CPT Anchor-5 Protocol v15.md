@@ -330,7 +330,7 @@ Interpreting these correlations conservatively, the results indicate that severa
 ## 5. Conclusion
 
 >Truth is the death of intention.
->— Walter Benjamin (1928/2019), *The Origin of the German Trauerspiel*
+>— Walter Benjamin (1928/2019), *Origin of the German Trauerspiel*
 
 This exploratory study offers three main observations, interpreted through the view that systemic qualities in complex socio-technical systems — including epistemic presentation in model outputs and benchmark references — are observer-interpreted constructs that become visible through patterns of observable textual behavior, rather than as directly measurable internal properties (Mavaddat, 2025).
 First, a lightweight, dimension-based protocol can support systematic and replicable comparisons of surface-level epistemic markers. Applied to all 817 TruthfulQA items, the Anchor-5 rubric yielded a robust directional pattern across two judge families (GPT-4o-mini and Claude 3.5 Haiku): model outputs consistently manifested more explicit markers of framing, qualification, boundary-setting, and reflexivity (mean Compression Signal +0.44 and +0.62, respectively). The largest gaps clustered in Visibility, Self-Reflexivity, Knowledge, and Boundary. Near-identical aggregates in a replication run indicate basic stability under fixed interpretive conditions.
