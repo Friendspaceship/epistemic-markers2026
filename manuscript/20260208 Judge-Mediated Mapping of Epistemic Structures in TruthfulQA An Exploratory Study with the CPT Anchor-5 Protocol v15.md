@@ -330,7 +330,7 @@ Interpreting these correlations conservatively, the results indicate that severa
 ## 5. Conclusion
 
 >Truth is the death of intention.
->— Walter Benjamin (2019), *The Origin of the German Drama*
+>— Walter Benjamin, *Origin of the German Trauerspiel* (1928)
 
 This exploratory study offers three main observations, interpreted through the view that systemic qualities in complex socio-technical systems — including epistemic presentation in model outputs and benchmark references — are observer-interpreted constructs that become visible through patterns of observable textual behavior, rather than as directly measurable internal properties (Mavaddat, 2025).
 First, a lightweight, dimension-based protocol can support systematic and replicable comparisons of surface-level epistemic markers. Applied to all 817 TruthfulQA items, the Anchor-5 rubric yielded a robust directional pattern across two judge families (GPT-4o-mini and Claude 3.5 Haiku): model outputs consistently manifested more explicit markers of framing, qualification, boundary-setting, and reflexivity (mean Compression Signal +0.44 and +0.62, respectively). The largest gaps clustered in Visibility, Self-Reflexivity, Knowledge, and Boundary. Near-identical aggregates in a replication run indicate basic stability under fixed interpretive conditions.
@@ -350,9 +350,9 @@ Moreover I would like to thank Kunal Singh and Michael Umeokoli for support in t
 
 ## References
 
-- Benjamin, Walter. (2019). The Origin of the German Drama. Cambridge: Harvard University Press.
+- Benjamin, W. (2019). *Origin of the German Trauerspiel* (H. Eiland, Trans.). Harvard University Press. (Original work published 1928).
 - Burden, John; Tešić, Marko; Pacchiardi, Lorenzo; Hernández-Orallo, José. (2025). Paradigms of AI evaluation: Mapping goals, methodologies, and culture. arXiv:2502.15620.
-- Carroll, Lewis. (1865). Alice's Adventures in Wonderland. London: Macmillan.
+- Carroll, Lewis. (1865). *Alice's Adventures in Wonderland*. London: Macmillan.
 - Eriksson, Maria; Purificato, Erasmo; Noroozian, Arman; Vinagre, Joao; Chaslot, Guillaume; Gomez, Emilia; Fernandez-Llorca, David. (2025). Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation. arXiv:2502.06559.
 - Fenge, D. (2025a). Technological Advancement and the Wisdom Gap: A Solution to the Fermi Paradox (draft) https://www.academia.edu/129287971/Technological_Advancement_and_the_Wisdom_Gap_A_Solution_to_the_Fermi_Paradox_Vs_202506011500_
 - Fenge, D. (2025b). Raising paradigmatic awareness: Preliminary Ideas for Paradigm Testing of Generative AI Systems. https://www.academia.edu/144013356/Raising_paradigmatic_awareness_Preliminary_Ideas_for_Paradigm_Testing_of_Generative_AI_Systems
