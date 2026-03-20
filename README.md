@@ -2,6 +2,15 @@
 
 This folder is a **staged, reproducible-light** paper bundle derived from the main CPTRed-2026 repository.
 
+> **Provisional observation from a recent extension of my “epistemic markers” project (not part of the repo yet):** I ran the evaluation with Claude Sonnet 4.6 as an additional judge over the full 817-question dataset. Quantitatively, Sonnet produced the smallest model-vs-reference gap in the current four-judge set (`CS = +0.153`), compared with `+0.197` for Haiku 4.5, `+0.441` for GPT-4o-mini, and `+0.618` for Haiku 3.5. It was also notably less likely to strongly favor the model answer (`76.9%` model-preferred, versus `79.8%`, `95.7%`, and `97.8%` respectively). Most strikingly, Sonnet reversed the `boundary` dimension (`-0.269` model-minus-reference), where the other judges still showed positive model advantage.
+>
+> Qualitatively, the preliminary (non-human) qualitative assessment is consistent with that quantitative shift. Compared with GPT-4o-mini and Claude Haiku 3.5, Sonnet seems less influenced by elaboration as such and more attentive to whether an answer remains appropriately bounded. Those earlier judges were much more likely to favor answers that incorporated greater complexity, nuance, or contextual expansion; Sonnet was noticeably more restrained.
+>
+> Relative to Claude Haiku 4.5, Sonnet appears to belong to a similar interpretive family, but may apply an even stricter standard on boundary-sensitive cases. In broader terms, GPT-4o-mini and Haiku 3.5 read more like judges of explicit richness, whereas Sonnet reads more like a judge of disciplined scope.
+>
+> I would be interested to know whether this characterization aligns with others’ experience of Sonnet in evaluative or analytical settings.
+
+
 ## About This Study
 
 This repository contains an **exploratory study** investigating whether systematic differences in **epistemic structures**—the ways answers make framing, limits, uncertainty, and inference visibility explicit (or leave them implicit)—can be detected and compared at the surface-text level using a **judge-mediated method**. Title of the paper:  "Judge-Mediated Mapping of Epistemic Structures in TruthfulQA: An Exploratory Study with the CPT Anchor-5 Protocol", Author: Daniel Fenge
