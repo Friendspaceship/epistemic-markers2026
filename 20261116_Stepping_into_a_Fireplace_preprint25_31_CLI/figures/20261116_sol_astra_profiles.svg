@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="680" viewBox="0 0 1140 680" role="img"><title>Earlier Sol and new Sol/Astra dimensional profiles</title><desc>Each817pairs; old/newexecutionconditionsdiffer; newSol/Astrarequestsmatchexceptmodel.</desc><rect width="100%" height="100%" fill="white"/>
+<text x="24" y="35" font-family="Arial, sans-serif" font-size="25" text-anchor="start" fill="#202832" font-weight="bold">Earlier Sol and new Sol/Astra: dimensional profiles</text>
+<text x="24" y="64" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">GPT-4o minus reference mean score · original 0–2 scale · 817 pairs per run</text>
+<rect x="260" y="85" width="16" height="16" fill="#376d96"/>
+<text x="284" y="99" font-family="Arial, sans-serif" font-size="16" text-anchor="start" fill="#202832" font-weight="normal">GPT-5.6 Sol</text>
+<rect x="520" y="85" width="16" height="16" fill="#b74722"/>
+<text x="544" y="99" font-family="Arial, sans-serif" font-size="16" text-anchor="start" fill="#202832" font-weight="normal">GPT-6.1 Sol</text>
+<rect x="780" y="85" width="16" height="16" fill="#76549a"/>
+<text x="804" y="99" font-family="Arial, sans-serif" font-size="16" text-anchor="start" fill="#202832" font-weight="normal">GPT-6 Astra</text>
+<line x1="300.0" y1="120" x2="300.0" y2="604" stroke="#d6dce2"/>
+<text x="300.0" y="634" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">-0.4</text>
+<line x1="480.0" y1="120" x2="480.0" y2="604" stroke="#d6dce2"/>
+<text x="480.0" y="634" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">-0.2</text>
+<line x1="660" y1="120" x2="660" y2="604" stroke="#666"/>
+<text x="660" y="634" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.0</text>
+<line x1="840.0" y1="120" x2="840.0" y2="604" stroke="#d6dce2"/>
+<text x="840.0" y="634" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.2</text>
+<line x1="1020.0" y1="120" x2="1020.0" y2="604" stroke="#d6dce2"/>
+<text x="1020.0" y="634" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.4</text>
+<text x="24" y="158" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Reality</text>
+<rect x="567.4663402692779" y="128" width="92.53365973072209" height="13" fill="#376d96" data-value="-0.10281517747858017"/>
+<text x="1090" y="140" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">-0.103</text>
+<rect x="563.0599755201958" y="144" width="96.94002447980415" height="13" fill="#b74722" data-value="-0.10771113831089352"/>
+<text x="1090" y="156" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.108</text>
+<rect x="557.5520195838433" y="160" width="102.44798041615672" height="13" fill="#76549a" data-value="-0.11383108935128519"/>
+<text x="1090" y="172" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.114</text>
+<text x="24" y="225" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Knowledge</text>
+<rect x="660" y="195" width="70.50183598531214" height="13" fill="#376d96" data-value="0.07833537331701346"/>
+<text x="1090" y="207" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">+0.078</text>
+<rect x="503.57405140758874" y="211" width="156.42594859241126" height="13" fill="#b74722" data-value="-0.17380660954712362"/>
+<text x="1090" y="223" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.174</text>
+<rect x="479.3390452876377" y="227" width="180.6609547123623" height="13" fill="#76549a" data-value="-0.200734394124847"/>
+<text x="1090" y="239" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.201</text>
+<text x="24" y="292" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Goal</text>
+<rect x="657.796817625459" y="262" width="2.2031823745410293" height="13" fill="#376d96" data-value="-0.0024479804161566705"/>
+<text x="1090" y="274" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">-0.002</text>
+<rect x="650.0856793145655" y="278" width="9.914320685434518" height="13" fill="#b74722" data-value="-0.011015911872705019"/>
+<text x="1090" y="290" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.011</text>
+<rect x="654.4920440636475" y="294" width="5.5079559363524595" height="13" fill="#76549a" data-value="-0.006119951040391677"/>
+<text x="1090" y="306" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.006</text>
+<text x="24" y="359" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Visibility</text>
+<rect x="660" y="329" width="309.547123623011" height="13" fill="#376d96" data-value="0.34394124847001223"/>
+<text x="1090" y="341" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">+0.344</text>
+<rect x="628.0538555691554" y="345" width="31.946144430844583" height="13" fill="#b74722" data-value="-0.03549571603427173"/>
+<text x="1090" y="357" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.035</text>
+<rect x="654.4920440636475" y="361" width="5.5079559363524595" height="13" fill="#76549a" data-value="-0.006119951040391677"/>
+<text x="1090" y="373" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.006</text>
+<text x="24" y="426" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Agency</text>
+<rect x="660" y="396" width="2.2031823745410293" height="13" fill="#376d96" data-value="0.0024479804161566705"/>
+<text x="1090" y="408" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">+0.002</text>
+<rect x="613.733170134639" y="412" width="46.266829865361046" height="13" fill="#b74722" data-value="-0.051407588739290085"/>
+<text x="1090" y="424" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.051</text>
+<rect x="606.0220318237455" y="428" width="53.977968176254535" height="13" fill="#76549a" data-value="-0.05997552019583843"/>
+<text x="1090" y="440" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.060</text>
+<text x="24" y="493" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Self-Reflexivity</text>
+<rect x="660" y="463" width="296.328029375765" height="13" fill="#376d96" data-value="0.3292533659730722"/>
+<text x="1090" y="475" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">+0.329</text>
+<rect x="660" y="479" width="152.0195838433292" height="13" fill="#b74722" data-value="0.1689106487148103"/>
+<text x="1090" y="491" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">+0.169</text>
+<rect x="660" y="495" width="160.83231334149332" height="13" fill="#76549a" data-value="0.17870257037943696"/>
+<text x="1090" y="507" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">+0.179</text>
+<text x="24" y="560" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">Boundary</text>
+<rect x="510.1835985312117" y="530" width="149.81640146878829" height="13" fill="#376d96" data-value="-0.1664626682986536"/>
+<text x="1090" y="542" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#376d96" font-weight="normal">-0.166</text>
+<rect x="396.71970624235007" y="546" width="263.28029375764993" height="13" fill="#b74722" data-value="-0.29253365973072215"/>
+<text x="1090" y="558" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#b74722" font-weight="normal">-0.293</text>
+<rect x="380.1958384332925" y="562" width="279.8041615667075" height="13" fill="#76549a" data-value="-0.3108935128518972"/>
+<text x="1090" y="574" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#76549a" font-weight="normal">-0.311</text>
+<text x="24" y="666" font-family="Arial, sans-serif" font-size="16" text-anchor="start" fill="#202832" font-weight="normal">Historical comparison is descriptive; model and execution settings differ.</text>
+</svg>

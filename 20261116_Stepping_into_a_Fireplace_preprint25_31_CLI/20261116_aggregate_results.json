@@ -1,0 +1,565 @@
+{
+  "scope": "Twenty-one descriptive evaluator configurations; historical fifteen sign summary and twelve-configuration preference panel retained.",
+  "date": "2026-11-16",
+  "configurations": [
+    {
+      "label": "Claude Haiku 3.5",
+      "n": 817,
+      "ref": 0.3142157719881098,
+      "model": 0.9325056828116803,
+      "CS": 0.6182899108235705,
+      "gaps": {
+        "reality": 1.1811505507955937,
+        "knowledge": 1.408812729498164,
+        "goal": 0.5507955936352509,
+        "visibility": 1.653610771113831,
+        "agency": 1.2386780905752754,
+        "self_reflexivity": 1.2717258261933904,
+        "boundary": 1.3512851897184823
+      },
+      "key": "haiku-3.5",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Mistral Small 24B",
+      "n": 817,
+      "ref": 0.5611995104039168,
+      "model": 0.9291834236754678,
+      "CS": 0.367983913271551,
+      "gaps": {
+        "reality": 0.211750305997552,
+        "knowledge": 0.9192166462668299,
+        "goal": 0.2741738066095471,
+        "visibility": 0.9902080783353733,
+        "agency": 0.6915544675642595,
+        "self_reflexivity": 1.219094247246022,
+        "boundary": 0.8457772337821298
+      },
+      "key": "mistral-24b",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "GPT-4o-mini",
+      "n": 817,
+      "ref": 0.5639972023080958,
+      "model": 0.869907326455674,
+      "CS": 0.30591012414757823,
+      "gaps": {
+        "reality": 0.32068543451652387,
+        "knowledge": 0.758873929008568,
+        "goal": 0.28518971848225216,
+        "visibility": 0.9216646266829865,
+        "agency": 0.6144430844553244,
+        "self_reflexivity": 0.8506731946144431,
+        "boundary": 0.5312117503059975
+      },
+      "key": "gpt-4o-mini",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Llama 3.3 70B",
+      "n": 817,
+      "ref": 0.67328204231509,
+      "model": 0.9246371743311768,
+      "CS": 0.2513551320160867,
+      "gaps": {
+        "reality": 0.1175030599755202,
+        "knowledge": 0.762545899632803,
+        "goal": 0.15299877600979192,
+        "visibility": 0.8200734394124847,
+        "agency": 0.44063647490820074,
+        "self_reflexivity": 1.0954712362301102,
+        "boundary": 0.12974296205630356
+      },
+      "key": "llama-3.3-70b",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Qwen3 32B",
+      "n": 817,
+      "ref": 0.7241650638223466,
+      "model": 0.9359153698198985,
+      "CS": 0.21175030599755196,
+      "gaps": {
+        "reality": 0.16401468788249693,
+        "knowledge": 0.48714810281517745,
+        "goal": 0.17503059975520197,
+        "visibility": 0.642594859241126,
+        "agency": 0.43084455324357407,
+        "self_reflexivity": 0.8384332925336597,
+        "boundary": 0.22643818849449204
+      },
+      "key": "qwen3-32b",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Claude Haiku 4.5",
+      "n": 817,
+      "ref": 0.6532610596258087,
+      "model": 0.8521594684385382,
+      "CS": 0.19889840881272947,
+      "gaps": {
+        "reality": 0.028151774785801713,
+        "knowledge": 0.2778457772337821,
+        "goal": 0.26438188494492043,
+        "visibility": 0.9510403916768666,
+        "agency": 0.09791921664626684,
+        "self_reflexivity": 0.9265605875152999,
+        "boundary": 0.2386780905752754
+      },
+      "key": "haiku-4.5",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "GPT-5.5",
+      "n": 817,
+      "ref": 0.7088651862213674,
+      "model": 0.8838083581045637,
+      "CS": 0.1749431718831963,
+      "gaps": {
+        "reality": -0.01346389228886169,
+        "knowledge": 0.37821297429620565,
+        "goal": 0.21052631578947367,
+        "visibility": 0.8641370869033048,
+        "agency": 0.11015911872705018,
+        "self_reflexivity": 0.780905752753978,
+        "boundary": 0.11872705018359853
+      },
+      "key": "gpt-5.5",
+      "panel_role": "historical_extension"
+    },
+    {
+      "label": "GLM-5.2",
+      "n": 799,
+      "ref": 0.7335955658859289,
+      "model": 0.8995172537099947,
+      "CS": 0.1659216878240658,
+      "gaps": {
+        "reality": -0.017521902377972465,
+        "knowledge": 0.36795994993742176,
+        "goal": 0.07133917396745933,
+        "visibility": 0.6633291614518148,
+        "agency": 0.2640801001251564,
+        "self_reflexivity": 0.7359198998748435,
+        "boundary": 0.23779724655819776
+      },
+      "key": "glm",
+      "panel_role": "later_extension"
+    },
+    {
+      "label": "Grok 4 Fast",
+      "n": 817,
+      "ref": 0.7793320510578773,
+      "model": 0.9360027976919042,
+      "CS": 0.15667074663402691,
+      "gaps": {
+        "reality": 0.01346389228886169,
+        "knowledge": 0.27050183598531213,
+        "goal": 0.13586291309669524,
+        "visibility": 0.616891064871481,
+        "agency": 0.1799265605875153,
+        "self_reflexivity": 0.8800489596083231,
+        "boundary": 0.0966952264381885
+      },
+      "key": "grok-4-fast",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "DeepSeek V3.2",
+      "n": 817,
+      "ref": 0.6781780031474034,
+      "model": 0.8324007693652736,
+      "CS": 0.15422276621787023,
+      "gaps": {
+        "reality": -0.06119951040391677,
+        "knowledge": 0.29865361077111385,
+        "goal": 0.051407588739290085,
+        "visibility": 0.5997552019583844,
+        "agency": 0.2717258261933905,
+        "self_reflexivity": 0.7343941248470012,
+        "boundary": 0.26438188494492043
+      },
+      "key": "deepseek-v3.2",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Qwen2.5 72B",
+      "n": 817,
+      "ref": 0.7984787550271026,
+      "model": 0.9523518097569506,
+      "CS": 0.1538730547298479,
+      "gaps": {
+        "reality": 0.1003671970624235,
+        "knowledge": 0.5091799265605875,
+        "goal": 0.1664626682986536,
+        "visibility": 0.5067319461444308,
+        "agency": 0.10403916768665851,
+        "self_reflexivity": 0.6940024479804161,
+        "boundary": 0.07343941248470012
+      },
+      "key": "qwen2.5-72b",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Claude Opus 4.8",
+      "n": 817,
+      "ref": 0.7298478755027102,
+      "model": 0.8722678789998252,
+      "CS": 0.14242000349711492,
+      "gaps": {
+        "reality": 0.014687882496940025,
+        "knowledge": 0.29498164014687883,
+        "goal": 0.18604651162790697,
+        "visibility": 0.6303549571603427,
+        "agency": 0.37576499388004897,
+        "self_reflexivity": 0.5385556915544676,
+        "boundary": -0.046511627906976744
+      },
+      "key": "opus-4.8",
+      "panel_role": "historical_extension"
+    },
+    {
+      "label": "Grok-4.6",
+      "n": 817,
+      "ref": 0.729235880398671,
+      "model": 0.8562685784228012,
+      "CS": 0.1270326980241302,
+      "gaps": {
+        "reality": -0.06119951040391677,
+        "knowledge": 0.36474908200734396,
+        "goal": 0.07099143206854346,
+        "visibility": 0.6291309669522643,
+        "agency": 0.09547123623011015,
+        "self_reflexivity": 0.620563035495716,
+        "boundary": 0.0587515299877601
+      },
+      "key": "grok",
+      "panel_role": "later_extension"
+    },
+    {
+      "label": "Claude Sonnet 4.6",
+      "n": 816,
+      "ref": 0.6821603641456583,
+      "model": 0.788953081232493,
+      "CS": 0.10679271708683469,
+      "gaps": {
+        "reality": 0,
+        "knowledge": 0.19730392156862744,
+        "goal": 0.11887254901960784,
+        "visibility": 0.5367647058823529,
+        "agency": 0.3958333333333333,
+        "self_reflexivity": 0.6176470588235294,
+        "boundary": -0.3713235294117647
+      },
+      "key": "sonnet-4.6",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "Claude Fable 5.1",
+      "n": 816,
+      "ref": 0.791579131652661,
+      "model": 0.8515406162464986,
+      "CS": 0.059961484593837544,
+      "gaps": {
+        "reality": -0.11274509803921569,
+        "knowledge": 0.03431372549019608,
+        "goal": -0.004901960784313725,
+        "visibility": 0.5526960784313726,
+        "agency": 0.1213235294117647,
+        "self_reflexivity": 0.5012254901960784,
+        "boundary": -0.25245098039215685
+      },
+      "key": "fable",
+      "panel_role": "later_extension"
+    },
+    {
+      "label": "Claude Sonnet 4.5",
+      "n": 817,
+      "ref": 0.8347613219094248,
+      "model": 0.8727050183598531,
+      "CS": 0.03794369645042839,
+      "gaps": {
+        "reality": -0.10893512851897184,
+        "knowledge": 0.04039167686658507,
+        "goal": 0.05385556915544676,
+        "visibility": 0.10648714810281518,
+        "agency": -0.01346389228886169,
+        "self_reflexivity": 0.4724602203182375,
+        "boundary": -0.019583843329253364
+      },
+      "key": "sonnet-4.5",
+      "panel_role": "historical_extension"
+    },
+    {
+      "label": "GPT-5.4",
+      "n": 817,
+      "ref": 0.7539779681762546,
+      "model": 0.7906102465465991,
+      "CS": 0.03663227837034444,
+      "gaps": {
+        "reality": -0.09057527539779682,
+        "knowledge": 0,
+        "goal": -0.09547123623011015,
+        "visibility": 0.6132190942472461,
+        "agency": 0.06731946144430845,
+        "self_reflexivity": 0.5116279069767442,
+        "boundary": -0.49326805385556916
+      },
+      "key": "gpt-5.4",
+      "panel_role": "historical_matched"
+    },
+    {
+      "label": "GPT-5.6 Sol",
+      "n": 817,
+      "ref": 0.8393949991257212,
+      "model": 0.8738415806959259,
+      "CS": 0.03444658157020464,
+      "gaps": {
+        "reality": -0.10281517747858017,
+        "knowledge": 0.07833537331701346,
+        "goal": -0.0024479804161566705,
+        "visibility": 0.34394124847001223,
+        "agency": 0.0024479804161566705,
+        "self_reflexivity": 0.3292533659730722,
+        "boundary": -0.1664626682986536
+      },
+      "key": "sol",
+      "panel_role": "later_extension"
+    },
+    {
+      "label": "Gemini 2.0 Flash",
+      "n": 817,
+      "ref": 0.8799615317363175,
+      "model": 0.8970099667774086,
+      "CS": 0.017048435041091103,
+      "gaps": {
+        "reality": 0.05997552019583843,
+        "knowledge": 0.004895960832313341,
+        "goal": 0.05507955936352509,
+        "visibility": -0.023255813953488372,
+        "agency": 0.05263157894736842,
+        "self_reflexivity": 0.0966952264381885,
+        "boundary": -0.0073439412484700125
+      },
+      "key": "gemini-2.0-flash",
+      "panel_role": "historical_matched"
+    },
+    {
+      "n": 817,
+      "ref": 0.8852946319286589,
+      "model": 0.8493617765343592,
+      "CS": -0.035932855394299704,
+      "gaps": {
+        "reality": -0.10771113831089352,
+        "knowledge": -0.17380660954712362,
+        "goal": -0.011015911872705019,
+        "visibility": -0.03549571603427173,
+        "agency": -0.051407588739290085,
+        "self_reflexivity": 0.1689106487148103,
+        "boundary": -0.29253365973072215
+      },
+      "label": "GPT-6.1 Sol",
+      "key": "sol61",
+      "panel_role": "later_extension"
+    },
+    {
+      "n": 817,
+      "ref": 0.8755901381360378,
+      "model": 0.8385207204056653,
+      "CS": -0.03706941773037244,
+      "gaps": {
+        "reality": -0.11383108935128519,
+        "knowledge": -0.200734394124847,
+        "goal": -0.006119951040391677,
+        "visibility": -0.006119951040391677,
+        "agency": -0.05997552019583843,
+        "self_reflexivity": 0.17870257037943696,
+        "boundary": -0.3108935128518972
+      },
+      "label": "GPT-6 Astra",
+      "key": "astra",
+      "panel_role": "later_extension"
+    }
+  ],
+  "dimension_signs_historical15": {
+    "reality": {
+      "positive": 10,
+      "zero": 1,
+      "negative": 4
+    },
+    "knowledge": {
+      "positive": 14,
+      "zero": 1
+    },
+    "goal": {
+      "positive": 14,
+      "negative": 1
+    },
+    "visibility": {
+      "positive": 14,
+      "negative": 1
+    },
+    "agency": {
+      "positive": 14,
+      "negative": 1
+    },
+    "self_reflexivity": {
+      "positive": 15
+    },
+    "boundary": {
+      "positive": 10,
+      "negative": 5
+    }
+  },
+  "preference_matched12": {
+    "n": 814,
+    "pairs": 66,
+    "conflicted_items": 328,
+    "conflicted_rate": 0.40294840294840295,
+    "pair_mean": 0.09189561462288735,
+    "pair_median": 0.09336609336609336,
+    "pair_min": 0.011056511056511056,
+    "pair_max": 0.2199017199017199,
+    "conditional_pair_mean": 0.12069717578762788,
+    "alpha_squared_numeric_distance": 0.30487759941230475,
+    "icc_2_1": 0.3155676607232966,
+    "hogwarts": {
+      "M": 4,
+      "R": 3,
+      "E": 5
+    }
+  },
+  "fireplace_case_evaluators": [
+    "DeepSeek V3.2",
+    "GPT-4o-mini",
+    "GPT-5.4",
+    "GPT-5.5",
+    "Claude Haiku 4.5",
+    "Llama 3.3 70B",
+    "Mistral Small 24B",
+    "Claude Opus 4.8",
+    "Qwen2.5 72B",
+    "Qwen3 32B",
+    "Claude Sonnet 4.5",
+    "Claude Sonnet 4.6"
+  ],
+  "preference_panel_evaluators": [
+    "DeepSeek V3.2",
+    "Gemini 2.0 Flash",
+    "GPT-4o-mini",
+    "GPT-5.4",
+    "Grok 4 Fast",
+    "Claude Haiku 3.5",
+    "Claude Haiku 4.5",
+    "Llama 3.3 70B",
+    "Mistral Small 24B",
+    "Qwen2.5 72B",
+    "Qwen3 32B",
+    "Claude Sonnet 4.6"
+  ],
+  "new_full817_profiles": {
+    "sol61": {
+      "n": 817,
+      "ref": 0.8852946319286589,
+      "model": 0.8493617765343592,
+      "CS": -0.035932855394299704,
+      "gaps": {
+        "reality": -0.10771113831089352,
+        "knowledge": -0.17380660954712362,
+        "goal": -0.011015911872705019,
+        "visibility": -0.03549571603427173,
+        "agency": -0.051407588739290085,
+        "self_reflexivity": 0.1689106487148103,
+        "boundary": -0.29253365973072215
+      },
+      "preference_counts_1_to_5": {
+        "1": 63,
+        "2": 233,
+        "3": 252,
+        "4": 230,
+        "5": 39
+      },
+      "preference_groups": {
+        "reference": 296,
+        "equal": 252,
+        "model": 269
+      },
+      "preference_mean": 2.9375764993880047,
+      "CS_sign_counts": {
+        "reference_higher": 318,
+        "equal": 275,
+        "model_higher": 224
+      }
+    },
+    "astra": {
+      "n": 817,
+      "ref": 0.8755901381360378,
+      "model": 0.8385207204056653,
+      "CS": -0.03706941773037244,
+      "gaps": {
+        "reality": -0.11383108935128519,
+        "knowledge": -0.200734394124847,
+        "goal": -0.006119951040391677,
+        "visibility": -0.006119951040391677,
+        "agency": -0.05997552019583843,
+        "self_reflexivity": 0.17870257037943696,
+        "boundary": -0.3108935128518972
+      },
+      "preference_counts_1_to_5": {
+        "1": 57,
+        "2": 243,
+        "3": 260,
+        "4": 225,
+        "5": 32
+      },
+      "preference_groups": {
+        "reference": 300,
+        "equal": 260,
+        "model": 257
+      },
+      "preference_mean": 2.916768665850673,
+      "CS_sign_counts": {
+        "reference_higher": 325,
+        "equal": 263,
+        "model_higher": 229
+      }
+    }
+  },
+  "dimension_signs_full21": {
+    "reality": {
+      "positive": 10,
+      "zero": 1,
+      "negative": 10
+    },
+    "knowledge": {
+      "positive": 18,
+      "zero": 1,
+      "negative": 2
+    },
+    "goal": {
+      "positive": 16,
+      "zero": 0,
+      "negative": 5
+    },
+    "visibility": {
+      "positive": 18,
+      "zero": 0,
+      "negative": 3
+    },
+    "agency": {
+      "positive": 18,
+      "zero": 0,
+      "negative": 3
+    },
+    "self_reflexivity": {
+      "positive": 21,
+      "zero": 0,
+      "negative": 0
+    },
+    "boundary": {
+      "positive": 12,
+      "zero": 0,
+      "negative": 9
+    }
+  }
+}
