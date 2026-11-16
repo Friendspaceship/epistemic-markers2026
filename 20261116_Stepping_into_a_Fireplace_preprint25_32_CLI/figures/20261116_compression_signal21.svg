@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="968" viewBox="0 0 1120 968" role="img"><title>Mean Compression Signal</title><desc>Nineteen positive and two negative mean contrasts in21configurations.</desc><rect width="100%" height="100%" fill="white"/>
+<text x="24" y="35" font-family="Arial, sans-serif" font-size="25" text-anchor="start" fill="#202832" font-weight="bold">Mean Compression Signal</text>
+<text x="24" y="64" font-family="Arial, sans-serif" font-size="18" text-anchor="start" fill="#202832" font-weight="normal">GPT-4o minus reference Awareness Index · normalized 0–1 indices</text>
+<line x1="310.0" y1="90" x2="310.0" y2="861" stroke="#d6dce2"/>
+<text x="310.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">-0.1</text>
+<line x1="400.0" y1="90" x2="400.0" y2="861" stroke="#666"/>
+<text x="400.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.0</text>
+<line x1="490.0" y1="90" x2="490.0" y2="861" stroke="#d6dce2"/>
+<text x="490.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.1</text>
+<line x1="580.0" y1="90" x2="580.0" y2="861" stroke="#d6dce2"/>
+<text x="580.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.2</text>
+<line x1="670.0" y1="90" x2="670.0" y2="861" stroke="#d6dce2"/>
+<text x="670.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.3</text>
+<line x1="760.0" y1="90" x2="760.0" y2="861" stroke="#d6dce2"/>
+<text x="760.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.4</text>
+<line x1="849.9999999999999" y1="90" x2="849.9999999999999" y2="861" stroke="#d6dce2"/>
+<text x="849.9999999999999" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.5</text>
+<line x1="939.9999999999999" y1="90" x2="939.9999999999999" y2="861" stroke="#d6dce2"/>
+<text x="939.9999999999999" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.6</text>
+<line x1="1030.0" y1="90" x2="1030.0" y2="861" stroke="#d6dce2"/>
+<text x="1030.0" y="891" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#202832" font-weight="normal">+0.7</text>
+<text x="24" y="119" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Haiku 3.5</text>
+<rect x="400.0" y="97" width="556.4609197412134" height="26" fill="#376d96" data-value="0.6182899108235705"/>
+<text x="965.4609197412134" y="118" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.618</text>
+<text x="24" y="155" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Mistral Small 24B</text>
+<rect x="400.0" y="133" width="331.18552194439576" height="26" fill="#376d96" data-value="0.367983913271551"/>
+<text x="740.1855219443958" y="154" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.368</text>
+<text x="24" y="191" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-4o-mini</text>
+<rect x="400.0" y="169" width="275.3191117328204" height="26" fill="#376d96" data-value="0.30591012414757823"/>
+<text x="684.3191117328204" y="190" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.306</text>
+<text x="24" y="227" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Llama 3.3 70B</text>
+<rect x="400.0" y="205" width="226.21961881447805" height="26" fill="#376d96" data-value="0.2513551320160867"/>
+<text x="635.219618814478" y="226" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.251</text>
+<text x="24" y="263" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Qwen3 32B</text>
+<rect x="400.0" y="241" width="190.57527539779676" height="26" fill="#376d96" data-value="0.21175030599755196"/>
+<text x="599.5752753977968" y="262" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.212</text>
+<text x="24" y="299" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Haiku 4.5</text>
+<rect x="400.0" y="277" width="179.00856793145647" height="26" fill="#376d96" data-value="0.19889840881272947"/>
+<text x="588.0085679314565" y="298" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.199</text>
+<text x="24" y="335" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-5.5</text>
+<rect x="400.0" y="313" width="157.44885469487667" height="26" fill="#376d96" data-value="0.1749431718831963"/>
+<text x="566.4488546948767" y="334" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.175</text>
+<text x="24" y="371" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GLM-5.2</text>
+<rect x="400.0" y="349" width="149.32951904165918" height="26" fill="#376d96" data-value="0.1659216878240658"/>
+<text x="558.3295190416592" y="370" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.166</text>
+<text x="24" y="407" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Grok 4 Fast</text>
+<rect x="400.0" y="385" width="141.00367197062417" height="26" fill="#376d96" data-value="0.15667074663402691"/>
+<text x="550.0036719706242" y="406" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.157</text>
+<text x="24" y="443" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">DeepSeek V3.2</text>
+<rect x="400.0" y="421" width="138.80048959608325" height="26" fill="#376d96" data-value="0.15422276621787023"/>
+<text x="547.8004895960833" y="442" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.154</text>
+<text x="24" y="479" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Qwen2.5 72B</text>
+<rect x="400.0" y="457" width="138.48574925686307" height="26" fill="#376d96" data-value="0.1538730547298479"/>
+<text x="547.4857492568631" y="478" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.154</text>
+<text x="24" y="515" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Opus 4.8</text>
+<rect x="400.0" y="493" width="128.1780031474034" height="26" fill="#376d96" data-value="0.14242000349711492"/>
+<text x="537.1780031474034" y="514" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.142</text>
+<text x="24" y="551" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Grok-4.6</text>
+<rect x="400.0" y="529" width="114.3294282217172" height="26" fill="#376d96" data-value="0.1270326980241302"/>
+<text x="523.3294282217172" y="550" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.127</text>
+<text x="24" y="587" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Sonnet 4.6</text>
+<rect x="400.0" y="565" width="96.1134453781512" height="26" fill="#376d96" data-value="0.10679271708683469"/>
+<text x="505.1134453781512" y="586" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.107</text>
+<text x="24" y="623" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Fable 5.1</text>
+<rect x="400.0" y="601" width="53.965336134453764" height="26" fill="#376d96" data-value="0.059961484593837544"/>
+<text x="462.96533613445376" y="622" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.060</text>
+<text x="24" y="659" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Claude Sonnet 4.5</text>
+<rect x="400.0" y="637" width="34.149326805385556" height="26" fill="#376d96" data-value="0.03794369645042839"/>
+<text x="443.14932680538556" y="658" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.038</text>
+<text x="24" y="695" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-5.4</text>
+<rect x="400.0" y="673" width="32.969050533309996" height="26" fill="#376d96" data-value="0.03663227837034444"/>
+<text x="441.96905053331" y="694" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.037</text>
+<text x="24" y="731" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-5.6 Sol</text>
+<rect x="400.0" y="709" width="31.00192341318416" height="26" fill="#376d96" data-value="0.03444658157020464"/>
+<text x="440.00192341318416" y="730" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.034</text>
+<text x="24" y="767" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Gemini 2.0 Flash</text>
+<rect x="400.0" y="745" width="15.34359153698199" height="26" fill="#376d96" data-value="0.017048435041091103"/>
+<text x="424.343591536982" y="766" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">+0.017</text>
+<text x="24" y="803" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-6.1 Sol</text>
+<rect x="367.66043014513025" y="781" width="32.33956985486975" height="26" fill="#b74722" data-value="-0.035932855394299704"/>
+<text x="358.66043014513025" y="802" font-family="Arial, sans-serif" font-size="17" text-anchor="end" fill="#202832" font-weight="normal">-0.036</text>
+<text x="24" y="839" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">GPT-6 Astra</text>
+<rect x="366.6375240426648" y="817" width="33.36247595733522" height="26" fill="#b74722" data-value="-0.03706941773037244"/>
+<text x="357.6375240426648" y="838" font-family="Arial, sans-serif" font-size="17" text-anchor="end" fill="#202832" font-weight="normal">-0.037</text>
+<text x="24" y="935" font-family="Arial, sans-serif" font-size="17" text-anchor="start" fill="#202832" font-weight="normal">Ordered descriptive contrasts, not a ranking of evaluator quality.</text>
+</svg>

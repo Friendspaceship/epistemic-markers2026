@@ -1,0 +1,12 @@
+metric,value
+n,814
+pairs,66
+conflicted_items,328
+conflicted_rate,0.40294840294840295
+pair_mean,0.09189561462288735
+pair_median,0.09336609336609336
+pair_min,0.011056511056511056
+pair_max,0.2199017199017199
+conditional_pair_mean,0.12069717578762788
+alpha_squared_numeric_distance,0.30487759941230475
+icc_2_1,0.3155676607232966

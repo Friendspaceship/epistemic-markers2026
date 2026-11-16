@@ -1,0 +1,22 @@
+evaluator,valid_n,gpt4o_higher,equal,gpt4o_lower
+Claude Haiku 3.5,817,801,8,8
+Mistral Small 24B,817,731,39,47
+GPT-4o-mini,817,633,66,118
+Llama 3.3 70B,817,715,60,42
+Qwen3 32B,817,542,227,48
+Claude Haiku 4.5,817,604,64,149
+GPT-5.5,817,602,85,130
+GLM-5.2,799,611,91,97
+Grok 4 Fast,817,661,89,67
+DeepSeek V3.2,817,589,91,137
+Qwen2.5 72B,817,609,115,93
+Claude Opus 4.8,817,629,92,96
+Grok-4.6,817,540,97,180
+Claude Sonnet 4.6,816,539,69,208
+Claude Fable 5.1,816,522,109,185
+Claude Sonnet 4.5,817,426,218,173
+GPT-5.4,817,410,123,284
+GPT-5.6 Sol,817,380,184,253
+Gemini 2.0 Flash,817,163,487,167
+GPT-6.1 Sol,817,224,275,318
+GPT-6 Astra,817,229,263,325
