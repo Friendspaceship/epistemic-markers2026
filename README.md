@@ -4,16 +4,16 @@ This repository contains the latest preprint and earlier versions of the study, 
 
 ## Latest preprint — Stepping into a Fireplace
 
-**Version 25.31 · 16 November 2026 · Daniel Fenge**
+**Version 25.32 · 16 November 2026 · Daniel Fenge**
 
 *Stepping into a Fireplace: Judge-Mediated Mapping of Epistemic Compression in TruthfulQA* revises and expands the February 2026 paper.
 
 The study now compares 21 evaluator configurations assessing the same 817 TruthfulQA reference/GPT-4o answer pairs. Nineteen give GPT-4o higher average scores; Sol 6.1 and Astra reverse that direction. Quantitative comparisons and selected qualitative cases examine what judges reward, what their explanations leave unresolved, and how epistemic compression can obscure relevant distinctions.
 
-- [Read the paper — Markdown](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_Stepping_into_a_Fireplace_draft25.31_CLI.md)
-- [Download the paper — PDF](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_Stepping_into_a_Fireplace_draft25.31_CLI.pdf)
-- [Technical companion](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_JMM_draft25.31_technical_companion_CLI.md)
-- [Complete package: appendix, figures, data and reproduction instructions](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/README.md)
+- [Read the paper — Markdown](20261116_Stepping_into_a_Fireplace_preprint25_32_CLI/20261116_Stepping_into_a_Fireplace_draft25.32_CLI.md)
+- [Download the paper — PDF](20261116_Stepping_into_a_Fireplace_preprint25_32_CLI/20261116_Stepping_into_a_Fireplace_draft25.32_CLI.pdf)
+- [Technical companion](20261116_Stepping_into_a_Fireplace_preprint25_32_CLI/20261116_JMM_draft25.32_technical_companion_CLI.md)
+- [Complete package: appendix, figures, data and reproduction instructions](20261116_Stepping_into_a_Fireplace_preprint25_32_CLI/README.md)
 
 This is an exploratory preprint. The earlier February version remains available.
 
@@ -21,7 +21,7 @@ This is an exploratory preprint. The earlier February version remains available.
 
 ## Earlier study and historical updates
 
-The material below documents the earlier version and subsequent preliminary observations. For the current findings and supporting materials, use the version 25.31 links above.
+The material below documents the earlier version and subsequent preliminary observations. For the current findings and supporting materials, use the version 25.32 links above.
 
 
 
