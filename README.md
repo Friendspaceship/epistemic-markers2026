@@ -2,7 +2,7 @@
 
 This repository contains the latest preprint and earlier versions of the study, together with selected data, figures and reproduction materials.
 
-## Latest preprint — Stepping into a Fireplace: Stepping into a Fireplace: Judge-Mediated Mapping of Epistemic Compression in TruthfulQA
+## Latest preprint — Stepping into a Fireplace: Judge-Mediated Mapping of Epistemic Compression in TruthfulQA
 
 **Version 25.32 · 16 November 2026 · Daniel Fenge**
 
