@@ -1,8 +1,32 @@
 # Paper Repository (Reproducible-Light)
 
-This folder is a **staged, reproducible-light** paper bundle derived from the main CPTRed-2026 repository.
+This repository contains the latest preprint and earlier versions of the study, together with selected data, figures and reproduction materials.
 
-> **Provisional observation from a recent extension of my “epistemic markers” project (not part of the repo yet):** I ran the evaluation with Claude Sonnet 4.6 as an additional judge over the full 817-question dataset. Quantitatively, Sonnet produced the smallest model-vs-reference gap in the current four-judge set (`CS = +0.153`), compared with `+0.197` for Haiku 4.5, `+0.441` for GPT-4o-mini, and `+0.618` for Haiku 3.5. It was also notably less likely to strongly favor the model answer (`76.9%` model-preferred, versus `79.8%`, `95.7%`, and `97.8%` respectively). Most strikingly, Sonnet reversed the `boundary` dimension (`-0.269` model-minus-reference), where the other judges still showed positive model advantage.
+## Latest preprint — Stepping into a Fireplace
+
+**Version 25.31 · 16 November 2026 · Daniel Fenge**
+
+*Stepping into a Fireplace: Judge-Mediated Mapping of Epistemic Compression in TruthfulQA* revises and expands the February 2026 paper.
+
+The study now compares 21 evaluator configurations assessing the same 817 TruthfulQA reference/GPT-4o answer pairs. Nineteen give GPT-4o higher average scores; Sol 6.1 and Astra reverse that direction. Quantitative comparisons and selected qualitative cases examine what judges reward, what their explanations leave unresolved, and how epistemic compression can obscure relevant distinctions.
+
+- [Read the paper — Markdown](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_Stepping_into_a_Fireplace_draft25.31_CLI.md)
+- [Download the paper — PDF](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_Stepping_into_a_Fireplace_draft25.31_CLI.pdf)
+- [Technical companion](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/20261116_JMM_draft25.31_technical_companion_CLI.md)
+- [Complete package: appendix, figures, data and reproduction instructions](20261116_Stepping_into_a_Fireplace_preprint25_31_CLI/README.md)
+
+This is an exploratory preprint. The earlier February version remains available.
+
+---
+
+## Earlier study and historical updates
+
+The material below documents the earlier version and subsequent preliminary observations. For the current findings and supporting materials, use the version 25.31 links above.
+
+
+
+>
+> **Historical Sonnet 4.6 update — retained from the earlier README:** I ran the evaluation with Claude Sonnet 4.6 as an additional judge over the full 817-question dataset. Quantitatively, Sonnet produced the smallest model-vs-reference gap in the current four-judge set (`CS = +0.153`), compared with `+0.197` for Haiku 4.5, `+0.441` for GPT-4o-mini, and `+0.618` for Haiku 3.5. It was also notably less likely to strongly favor the model answer (`76.9%` model-preferred, versus `79.8%`, `95.7%`, and `97.8%` respectively). Most strikingly, Sonnet reversed the `boundary` dimension (`-0.269` model-minus-reference), where the other judges still showed positive model advantage.
 >
 > Qualitatively, the preliminary (non-human) qualitative assessment is consistent with that quantitative shift. Compared with GPT-4o-mini and Claude Haiku 3.5, Sonnet seems less influenced by elaboration as such and more attentive to whether an answer remains appropriately bounded. Those earlier judges were much more likely to favor answers that incorporated greater complexity, nuance, or contextual expansion; Sonnet was noticeably more restrained.
 >
@@ -67,7 +91,7 @@ This bundle **intentionally omits** large per-item JSONL outputs and the raw Tru
 ## Replication Notes
 See `20260106_REPLICATION_GUIDELINES.md` for the full end-to-end procedure and parameter lock details.
 
-## Repository Status
+## Historical repository status — February 2026
 
 ✅ **Reproducible-light bundle updated** as of February 8, 2026.
 
