@@ -1,6 +1,6 @@
-# Stepping into a Fireplace — preprint candidate 25.32
+# Stepping into a Fireplace — preprint 25.32
 
-Daniel Fenge · 16 November 2026 · prepared for epistemic-markers2026; this revision has not yet been uploaded.
+Daniel Fenge · 16 November 2026 · Preprint available in the [epistemic-markers2026 repository](https://github.com/Friendspaceship/epistemic-markers2026/tree/main/20261116_Stepping_into_a_Fireplace_preprint25_32_CLI).
 
 ## Read
 
@@ -34,6 +34,6 @@ Exports are written to `rendered/`. Rendering needs no network access after depe
 
 ## Publication status
 
-This is an exploratory preprint candidate, not a peer-reviewed or accepted paper. No DOI is assigned. Earlier versions remain separate historical records. Existing copyright and AI-assistance disclosures are retained; no additional license is granted. TruthfulQA excerpts remain attributed to Lin, Hilton and Evans. Private reviews, chatlogs and raw provider outputs are not included.
+This is an exploratory preprint, not a peer-reviewed or accepted paper. No DOI is assigned. Earlier versions remain separate historical records. Existing copyright and AI-assistance disclosures are retained; no additional license is granted. TruthfulQA excerpts remain attributed to Lin, Hilton and Evans. Private reviews, chatlogs and raw provider outputs are not included.
 
 Suggested citation: Fenge, D. (2026). *Stepping into a Fireplace: Judge-Mediated Mapping of Epistemic Compression in TruthfulQA*. Preprint, version 25.32, 16 November 2026.
